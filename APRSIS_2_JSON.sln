@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "APRSIS_2_JSON", "APRSIS_2_JSON\APRSIS_2_JSON.pyproj", "{42B8AEF1-237D-4823-9101-85B3932BBAB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B8AEF1-237D-4823-9101-85B3932BBAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B8AEF1-237D-4823-9101-85B3932BBAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C10857-6776-4D63-9952-20AD6ABB96CD}
+	EndGlobalSection
+EndGlobal
